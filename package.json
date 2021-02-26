@@ -1,0 +1,43 @@
+{
+  "name": "iqotion-api",
+  "version": "1.0.0",
+  "description": "api for iqoption",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorratts13/iqotion-api.git"
+  },
+  "keywords": [
+    "iqoption",
+    "binary",
+    "binary",
+    "option",
+    "iq",
+    "bot",
+    "bot",
+    "bot",
+    "option",
+    "binary",
+    "options",
+    "bot",
+    "for",
+    "iqoption",
+    "trade",
+    "forex",
+    "ccxt"
+  ],
+  "author": "victor ratts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorratts13/iqotion-api/issues"
+  },
+  "homepage": "https://github.com/victorratts13/iqotion-api#readme",
+  "dependencies": {
+    "botrest": "^1.0.7",
+    "qs": "^6.9.6",
+    "ws": "^7.4.3"
+  }
+}

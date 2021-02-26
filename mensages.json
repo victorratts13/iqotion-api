@@ -1,0 +1,9 @@
+{
+    "name": "heartbeat",
+    "request_id": "0",
+    "local_time": 12242,
+    "msg": {
+        "userTime": "1614310996389",
+        "heartbeatTime": "1614310996388"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "get": {
+        "appinit": "https://iqoption.com/api/appinit",
+        "config": "https://iqoption.com/api/configuration",
+        "countries": "https://iqoption.com/api/v4/countries",
+        "features": "https://features.iqoption.com/api/v2/features",
+        "cookies": "https://iqbroker.com/lp/api/cookies",
+        "getRegData": "https://iqoption.com/api/register/getregdata"
+    },
+    "post": {
+        "events": "https://event.iqoption.com/api/v1/events",
+        "auth": "https://auth.iqoption.com/api/v2/login",
+        "graphql":"https://fininfo.iqoption.com/api/graphql"
+
+    }
+
+
+}
